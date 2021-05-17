@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-emacs-keymap",
+	"name": "Restore Emacs Keymap",
 	"version": "1.0.1",
-	"minAppVersion": "0.9.12",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
+	"minAppVersion": "0.11.10",
+	"description": "Restores the old Emacsy keymap of CodeMirror. Restores Opt-F, Opt-B, Opt-D.",
+	"author": "Lucas Godoy",
 	"authorUrl": "https://obsidian.md/about",
 	"isDesktopOnly": false
 }
